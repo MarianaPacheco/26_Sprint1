@@ -2,13 +2,8 @@ header, footer,nav{
 	background-color: #220235 !important; 
 }
 
-footer{
-	margin: 0 0;
-	padding: 0 0;
-}
-
 .logo{
-	width: 30%;
+	width: 25%;
 
 }
 
@@ -18,9 +13,7 @@ footer{
 	margin-right:3%;
 }
 
-.ul-menu{
-	margin-top:4%;	
-}
+
 
 a{
 	list-style: none;
@@ -80,15 +73,18 @@ h1,h4{
 }
 
 h4{
-	font-weight: bold;
 	padding-top: 2%;
+}
+
+.p-i, h4{
+	font-weight: bold;
 }
 
 h5{
 	padding-bottom:6%; 
 }
 
-h5, .li-menu{
+.p-i, h5, .li-menu{
 	font-style: italic;
 }
 
@@ -155,6 +151,6 @@ span{
 	color: gray;
 }
 
-nav{
-	background-color: 
+html { 
+	overflow-x:hidden; 
 }
