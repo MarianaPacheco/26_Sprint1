@@ -116,19 +116,19 @@ form{
 	padding: 5% 5%;
 }
 
-input{		
+input{	
+	background-color: #000;	
  	width: 100%;
  	padding: 2% 8%;
  	font-size: 1.5em;
- 	background: #fff;
- 	opacity: .1;
+ 	opacity: .5;
  	border:0px;
- 	color:#000;
+ 	
  }
 
 *::-webkit-input-placeholder {
     /* Google Chrome y Safari */
-    color: #000;
+    color: #fff;
 }
 
 .icono{
