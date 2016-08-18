@@ -1,0 +1,27 @@
+
+/* Responsive */
+
+@media screen and (max-width : 920px) {
+
+}
+
+@media screen and (max-width: 600px) {
+.logo{
+	width: 30%;
+}
+
+#div-banner{
+	width: 100%;
+	display: block;
+	margin: 12% auto;
+}
+
+.ul-banner{
+	font-size: .8em;
+	text-align: left;
+}
+
+
+}
+
+
